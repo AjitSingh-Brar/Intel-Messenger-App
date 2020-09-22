@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is an Intel Messenger App created by supporting packages:
+
+1. Firebase Firestore Realtime db
+2. Material UI
+3. React Router
+4. React Context API <==> REDUX
+5. Google Authentication
+
+
 ## Available Scripts
 
 In the project directory, you can run:
