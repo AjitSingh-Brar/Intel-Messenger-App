@@ -1,3 +1,5 @@
+## Intel Messenger App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The project is an Intel Messenger App created by supporting packages:
@@ -7,6 +9,10 @@ The project is an Intel Messenger App created by supporting packages:
 3. React Router
 4. React Context API <==> REDUX
 5. Google Authentication
+
+In this project, the chat shown is stored at the backend in the realtime database. The chat stored is reflected in the Chat.js component with the actual send time information. 
+The SidebarChat.js component is used to display the list of chat rooms. The Login.js comoponent allows an user to login through its google account and chat within different chatrooms. 
+Hence, an option for adding a new chatroom is added and respective icon buttons are designed for Front End experience by user.
 
 
 ## Available Scripts
